@@ -18,6 +18,6 @@ public class MainController {
 
     @GetMapping("/test")
     public String testConnection() {
-        return "Connection OK!";
+        return "Connection OK ok!";
     }
 }
